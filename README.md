@@ -1,2 +1,2 @@
-# lpc_api
+# Resumo
 Projeto base para Introdução de api
